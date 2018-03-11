@@ -183,8 +183,8 @@
         android:paddingStart="0dp"
         android:paddingTop="0dp"
         android:text="0"
-        tools:layout_editor_absoluteX="16dp"
-        tools:layout_editor_absoluteY="385dp" />
+        tools:layout_editor_absoluteX="20dp"
+        tools:layout_editor_absoluteY="439dp" />
 
     <Button
         android:id="@+id/b_period"
